@@ -1,0 +1,5 @@
+const bjjChokes = ['triangle choke','cross collar choke','bow & arrow choke'];
+
+for (let bjjIndex=0; bjjIndex<bjjChokes.length; bjjIndex++) {
+  console.log('I wanna learn the '+ bjjChokes[bjjIndex] + ' as soon as possible.');
+};
